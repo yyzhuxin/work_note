@@ -5,6 +5,15 @@
     "sub_directories": [
         {
             "name": "数据结构和算法"
+        },
+        {
+            "name": "redis"
+        },
+        {
+            "name": "数据库"
+        },
+        {
+            "name": "C++"
         }
     ],
     "version": "1"
